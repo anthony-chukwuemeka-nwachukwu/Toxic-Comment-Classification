@@ -23,12 +23,12 @@ After this has been completed, you can activate Jupyter Notebook by typing ```ju
 
 You will need to install these packages to be able to use the Notebook. You can install them via Notebook or terminal. In the later case, you need to omit **!**.
 
-`!pip install googletrans  
-!pip install tqdm  
-!pip install torch  
-!pip install emoji  
-!pip install --upgrade pip  
-!pip install translators`  
+`!pip install googletrans`  
+`!pip install tqdm`  
+`!pip install torch`  
+`!pip install emoji`  
+`!pip install --upgrade pip`  
+`!pip install translators`  
 
 
 Project Organization
@@ -54,4 +54,4 @@ Project Organization
 
 --------
 
-<p><small>Link to data <a target="_blank" https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/">kaggle Jigsaw Data</a>.</small></p>
+<p><small>Link to data <a target="_blank" href="https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/">kaggle Jigsaw Data</a>.</small></p>
