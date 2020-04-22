@@ -23,21 +23,12 @@ After this has been completed, you can activate Jupyter Notebook by typing ```ju
 
 You will need to install these packages to be able to use the Notebook. You can install them via Notebook or terminal. In the later case, you need to omit **!**.
 
-<<<<<<< HEAD
-`!pip install googletrans  
-!pip install tqdm  
-!pip install torch  
-!pip install emoji  
-!pip install --upgrade pip  
-!pip install translators`  
-=======
 `!pip install googletrans`  
 `!pip install tqdm`  
 `!pip install torch`  
 `!pip install emoji`  
 `!pip install --upgrade pip`  
-`!pip install translators`  
->>>>>>> f61973cee6947405698843b19e1788955381797e
+`!pip install translators`
 
 
 Project Organization
